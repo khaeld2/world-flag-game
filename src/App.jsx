@@ -140,7 +140,7 @@ const App = () => {
       </Dialog>
       <Box sx={{ position: 'absolute', bottom: 20, left: 0, right: 0, textAlign: 'center' }}>
         <Typography variant="body2" color="text.secondary">
-          Created by <a href="https://twitter.com/khaled90s" target="_blank" rel="noopener noreferrer" style={{ color: '#1976d2', textDecoration: 'none' }}>Khaled Eldahshan</a> using Trae AI
+          Created by <a href="https://twitter.com/khaeld90s" target="_blank" rel="noopener noreferrer" style={{ color: '#1976d2', textDecoration: 'none' }}>Khaled Eldahshan</a> using Trae AI
         </Typography>
       </Box>
     </Container>
